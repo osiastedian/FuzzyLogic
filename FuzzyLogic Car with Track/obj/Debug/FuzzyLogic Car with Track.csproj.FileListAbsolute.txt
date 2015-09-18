@@ -1,0 +1,9 @@
+c:\users\ted ian osias\documents\visual studio 2015\Projects\FuzzyLogic Car with Track\FuzzyLogic Car with Track\obj\Debug\FuzzyLogic Car with Track.csprojResolveAssemblyReference.cache
+c:\users\ted ian osias\documents\visual studio 2015\Projects\FuzzyLogic Car with Track\FuzzyLogic Car with Track\obj\Debug\FuzzyLogic_Car_with_Track.Form1.resources
+c:\users\ted ian osias\documents\visual studio 2015\Projects\FuzzyLogic Car with Track\FuzzyLogic Car with Track\obj\Debug\FuzzyLogic_Car_with_Track.Properties.Resources.resources
+c:\users\ted ian osias\documents\visual studio 2015\Projects\FuzzyLogic Car with Track\FuzzyLogic Car with Track\obj\Debug\FuzzyLogic Car with Track.csproj.GenerateResource.Cache
+c:\users\ted ian osias\documents\visual studio 2015\Projects\FuzzyLogic Car with Track\FuzzyLogic Car with Track\bin\Debug\FuzzyLogic Car with Track.exe.config
+c:\users\ted ian osias\documents\visual studio 2015\Projects\FuzzyLogic Car with Track\FuzzyLogic Car with Track\bin\Debug\FuzzyLogic Car with Track.exe
+c:\users\ted ian osias\documents\visual studio 2015\Projects\FuzzyLogic Car with Track\FuzzyLogic Car with Track\bin\Debug\FuzzyLogic Car with Track.pdb
+c:\users\ted ian osias\documents\visual studio 2015\Projects\FuzzyLogic Car with Track\FuzzyLogic Car with Track\obj\Debug\FuzzyLogic Car with Track.exe
+c:\users\ted ian osias\documents\visual studio 2015\Projects\FuzzyLogic Car with Track\FuzzyLogic Car with Track\obj\Debug\FuzzyLogic Car with Track.pdb
